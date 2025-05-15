@@ -36,10 +36,12 @@
 .off{font-weight: bold;
     font-size: 88px;
     color: #FF0000;
+    margin-bottom: 48px;
 
 }
 .only-65{
     text-align: center;
+   
 }
 .holiday{
     font-weight: normal;
@@ -50,5 +52,11 @@
     font-weight: bold;
     font-size: 48px;
     color: #070211;
+    margin-top: 16px;
+}
+.photo-1{
+    width: 802px;
+    height: 500px;
+    margin-bottom: 120px;
 }
 
