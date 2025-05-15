@@ -1,0 +1,54 @@
+.first-project{
+   background:rgba(0,0,0,0.7)url(../B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    margin-top: 50px;
+   margin-left: 170px;
+   margin-right: 140px;
+   margin-bottom: 120px;
+   border-radius: 16px;
+   
+   
+   background-blend-mode: darken;
+
+   
+
+
+  
+}
+.only-new-year{
+    text-align: center;
+    padding: 160px 344px;
+}
+.regular-1{
+    font-weight: normal;
+    font-size: 32px;
+    color: #FFFFFF;
+    
+}
+.regular-2{
+    font-weight: bold;
+    font-size: 72px;
+    color: #FFFFFF;
+    margin-top: 22px;
+    
+}
+.off{font-weight: bold;
+    font-size: 88px;
+    color: #FF0000;
+
+}
+.only-65{
+    text-align: center;
+}
+.holiday{
+    font-weight: normal;
+    font-size: 24px;
+    color: #FF0000;
+}
+.catagory{
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+}
+
