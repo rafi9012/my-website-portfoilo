@@ -9,13 +9,14 @@
    border-radius: 16px;
    
    
-   background-blend-mode: darken;
+   background-blend-mode: darken;}
+
 
    
 
 
   
-}
+
 .only-new-year{
     text-align: center;
     padding: 160px 344px;
@@ -57,6 +58,62 @@
 .photo-1{
     width: 802px;
     height: 500px;
-    margin-bottom: 120px;
+     margin-bottom: 124px;
+   
 }
+.midnight{
+    font-weight: bold;
+    font-size: 64px;
+    color: #FFFFFF;
+    padding-top: 30px;
+    padding-left: 140px;
+    
+    
+    
+   
+}
+.third-project{
+    background:rgba(0,0,0,0.7)url(../B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+     width: 1320px;
+    height: 600px;
+    margin-top: 0px;
+   margin-left: 30px;
+   margin-right: 140px;
+   margin-bottom: 120px;
+   border-radius: 16px;
+   display: flex;
+   justify-content: space-between;
+   
+
+   
+   
+   background-blend-mode: darken;
+}
+.dolor{
+    font-weight: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding-left:  124px;
+    
+    
+  
+   
+   
+.join-me{
+     font-weight: bold;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding-left: 172px;
+}
+
+.image{
+    width: 349px;
+    height: 464px;
+}
+
+
+
+
+   
+
 
